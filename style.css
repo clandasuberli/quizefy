@@ -1,0 +1,13 @@
+body {
+   background: pink;
+}
+.Theory,
+.question {
+	padding-bottom: 100px;
+}
+.Theory p {
+	color: #666;
+	word-spacing: 2px;
+	line-height: 25px;
+	margin-bottom: 20px;
+}
